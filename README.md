@@ -4,7 +4,7 @@ Konorze Windows Performance Optimizer is a standalone application for Windows sy
 
 This is a compiled application. The source code is not public. No installation is required.
 
-VIRUSTOTAL SCAN: [[https://github.com/Konorze](https://github.com/Konorze](https://www.virustotal.com/gui/file/0af4a6f9d0fb6ed64609b885cd84309f6e840d62e7d2312b11679a1b1b5f565e?nocache=1))  
+VIRUSTOTAL SCAN: [[https://www.virustotal.com/gui/file/0af4a6f9d0fb6ed64609b885cd84309f6e840d62e7d2312b11679a1b1b5f565e?nocache=1))  
 
 ---
 
