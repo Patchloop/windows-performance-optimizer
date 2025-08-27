@@ -65,8 +65,8 @@ This is a proprietary free license, not open-source.
 
 ## Author
 
-**xpayload**  
-GitHub: [https://github.com/xpayload](https://github.com/patchloop)  
+**patchloop**  
+GitHub: [https://github.com/patchloop](https://github.com/patchloop)  
 Repository: [https://github.com/patchloop/patchloop-windows-performance-optimizer](https://github.com/patchloop/patchloop-windows-performance-optimizer)
 
 © 2025 xpayload. All rights reserved.
