@@ -32,7 +32,7 @@ This is a compiled application. The source code is not public. No installation i
 
 ## Usage
 
-1. Download the latest release from the [Releases](https://github.com/patchloop/patchloop-windows-performance-optimizer/releases) page.
+1. Download the latest release from the [Releases](https://github.com/patchloop/windows-performance-optimizer/releases) page.
 2. Right-click the `.exe` file and choose "Run as administrator".
 3. Use the available tabs to navigate through the tools.
 4. It is recommended to start by creating a restore point.
